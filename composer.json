@@ -2,6 +2,13 @@
     "name": "amroboney/repository-generator",
     "description": "A feature-rich Laravel package to simplify and streamline the process of generating repository files using the repository pattern, promoting clean architecture and maintainable code.\n",
     "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Amro Abuelyaman",
+            "email": "amroboney@gmail.com"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "AmroBoney\\RepositoryGenerator\\": "src/"
@@ -17,5 +24,7 @@
                 "AmroBoney\\RepositoryGenerator\\RepositoryGeneratorServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
