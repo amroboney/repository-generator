@@ -95,9 +95,30 @@ Contributions are welcome! If you'd like to contribute to this package, feel fre
 📧 [amroboney@gmail.com](mailto:amroboney@gmail.com)
 📍 Riyadh, Saudi Arabia
 
-## 📝 License
-This package is open-source software licensed under the [MIT License](LICENSE).
-Let me know if you would like further modifications, such as adding badges or additional instructions.
+
+## License Information
+This package is licensed under the **MIT License**, which means:
+### ✅ Permissions:
+- **Commercial Use**
+  You can use this package in commercial applications and products.
+- **Modification**
+  You are allowed to modify the source code for your own use.
+- **Distribution**
+  You can freely share, distribute, or resell the package (as-is or modified).
+- **Private Use**
+  You can use this package in private or internal projects without any restrictions.
+
+### ❌ Limitations:
+- **No Liability**
+  The author is not responsible for any damages resulting from the use of this software.
+- **No Warranty**
+  The software is provided "as is," without any warranty of any kind (express or implied), including but not limited to:
+    - Warranties of merchantability.
+    - Fitness for a particular purpose.
+    - Non-infringement.
+
+
+For full license details, please refer to the [LICENSE](LICENSE) file included in this repository.
 
 
 
